@@ -51,7 +51,7 @@ Script ini di modifikasi sama saya sendiri Yanzz Officials.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/yanzzbot/iMIKUBOT
+> git clone https://github.com/yanzzbot/iMiKUBOT
 > cd iMiKUBOT
 > bash install.sh
 > node index.js
