@@ -52,7 +52,7 @@ Script ini di modifikasi sama saya sendiri Yanzz Officials.
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > git clone https://github.com/yanzzbot/iMIKUBOT
-> cd iMIKUBOT
+> cd iMiKUBOT
 > bash install.sh
 > node index.js
 > Tinggal scan kode qr yeee...done
