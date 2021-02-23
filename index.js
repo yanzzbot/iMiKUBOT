@@ -2022,12 +2022,12 @@ break
 						const encmedia = isQuotedImage ? JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo : mek
 						buff = await baby.downloadMediaMessage(encmedia)
 						for (let _ of anu) {
-							baby.sendMessage(_.jid, buff, image, {caption: `*「 iMIKU BOT 2 BROADCAST 」*\n\n${body.slice(4)}`})
+							baby.sendMessage(_.jid, buff, image, {caption: `*「 iMiKUBOT BROADCAST 」*\n\n${body.slice(4)}`})
 						}
 						reply('')
 					} else {
 						for (let _ of anu) {
-							sendMess(_.jid, `*「 BABY BROADCAST 」*\n\n${body.slice(4)}`)
+							sendMess(_.jid, `*「 iMiKUBOT BROADCAST 」*\n\n${body.slice(4)}`)
 						}
 						reply('*「 SUKSES BOSKU 」*')
 					}
